@@ -11,4 +11,3 @@
 - Once authenticated user can add links and behind the scene a server action is executed to generate a unique uuid using nanoid and stores the long url as key, value pairs.
 - It uses dynamic routes to redirect the shortened url to it's associated long url with HTTP 307 status code.
 
-Hosted on vercel here [https://short-it-rajat.vercel.app/](https://short-it-rajat.vercel.app/)
